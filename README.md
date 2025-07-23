@@ -1,2 +1,2 @@
 # cursor_ide_settings
-cursor ide settings
+Домашняя работа для Университета Искусственного Интеллекта
